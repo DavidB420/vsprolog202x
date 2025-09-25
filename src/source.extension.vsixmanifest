@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="sebagomez.vsprolog.2947A7DD-8A3A-4742-8C7B-DFBB5C00E2AA" Version="2019.1" Language="en-US" Publisher="sebastian gomez" />
-        <DisplayName>VSProlog for Visual Studio 2019</DisplayName>
-        <Description xml:space="preserve">Arity Prolog extension for Visual Studio 2019</Description>
-        <MoreInfo>https://github.com/sebagomez/vsprolog</MoreInfo>
+        <Identity Id="sebagomez.vsprolog.2947A7DD-8A3A-4742-8C7B-DFBB5C00E2AA" Version="2022.1" Language="en-US" Publisher="sebastian gomez" />
+        <DisplayName>VSProlog for Visual Studio 2022</DisplayName>
+        <Description xml:space="preserve">Arity Prolog extension for Visual Studio 2022</Description>
+        <MoreInfo>https://github.com/DavidB420/vsprolog2022</MoreInfo>
         <License>Resources\License.txt</License>
         <Icon>Resources\settings_gear.ico</Icon>
         <PreviewImage>Resources\preview.PNG</PreviewImage>
-        <Tags>prolog, visual studio, 2019, arity</Tags>
+        <Tags>prolog, visual studio, 2022, arity</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
